@@ -11,7 +11,7 @@ I work primarily with Python and JavaScript, and I am currently learning FastAPI
 - Tools & Libraries: SQLAlchemy, Pydantic, Typing, SQL  
 
 ## 🚀 Current Focus
-- Building backend projects (including a Placement Management System)  
+- Building backend projects   
 - Strengthening database design and API development  
 
 <!--

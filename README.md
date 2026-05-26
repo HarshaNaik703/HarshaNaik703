@@ -8,8 +8,8 @@ I primarily work with Python and Bash, and I enjoy building automation tools, ba
 
 - Languages: Python, Bash, SQL
 - Backend: FastAPI
-- Databases: SQLite, MySQL
-- Tools & Libraries: SQLAlchemy, Pydantic, Typing, Git, Linux, Shell Scripting
+- Databases: SQLite, MySQL, Postgre sql
+- Tools & Libraries: SQLAlchemy, Pydantic, Typing,typing, alembic, Git, Linux, Shell Scripting
 
 ## 🚀 Current Focus
 
